@@ -1,0 +1,9 @@
+.row {
+  max-width: 114rem;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 4rem;
+  // text-align: center;
+  // background-color: antiquewhite;
+}
